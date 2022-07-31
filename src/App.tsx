@@ -8,7 +8,10 @@ function App() {
     <>
       <Navigation />
       <Routes>
-        <Route path="/" element={<ProductsPage />} />
+        <Route
+          path="https://eugene015.github.io/react-product-list/"
+          element={<ProductsPage />}
+        />
         <Route path="/about" element={<AboutPage />} />
       </Routes>
     </>
