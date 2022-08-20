@@ -7,10 +7,10 @@ export function Navigation() {
       <span className="font-bold">Products List</span>
 
       <span>
-        <Link to="/" className="mr-4 hover:text-[#999]">
+        <Link to="/react-product-list/" className="mr-4 hover:text-[#999]">
           Products
         </Link>
-        <Link to="/about" className="hover:text-[#999]">
+        <Link to="/react-product-list/about" className="hover:text-[#999]">
           About
         </Link>
       </span>
