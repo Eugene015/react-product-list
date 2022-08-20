@@ -20,7 +20,7 @@ export function ProductsPage() {
   return (
     <>
       {loading && <Loader />}
-      <div className="grid grid-cols-2 gap-4 my-10 mx-40">
+      <div className="grid grid-cols-1 lg:grid-cols-2 gap-4 mx-5 my-10 md:mx-40 lg:mx-20">
         {error && <ErrorMessage error={error} />}
         {products.map((product) => (
           <Product product={product} key={product.id} />
