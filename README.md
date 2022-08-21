@@ -4,5 +4,6 @@ Educational project based on React JS technology using functional components and
 
 https://eugene015.github.io/react-product-list/
 
-![products list](https://user-images.githubusercontent.com/101366301/185766045-71d56ef4-437f-442b-9458-2dc7df066440.gif)
+![productslist](https://user-images.githubusercontent.com/101366301/185783691-71a75baf-65e7-44e5-9a0d-5c52ec8c0863.gif)
+
 
