@@ -33,10 +33,10 @@ export function ProductsPage() {
         )}
 
         <button
-          className="fixed bottom-5 right-5 rounded-full bg-red-700 text-white text-2xl px-4 py-2"
+          className="fixed bottom-10 right-0 rounded-l-lg bg-red-700 text-white text-2x2 px-4 py-2"
           onClick={open}
         >
-          +
+          Add
         </button>
       </div>
     </>
